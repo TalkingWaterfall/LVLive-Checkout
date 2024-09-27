@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "605859418818",
+    "firebase_url": "https://lv-live-kassesystem-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lv-live-kassesystem",
+    "storage_bucket": "lv-live-kassesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605859418818:android:4b94e3c70427c23a8ce15b",
+        "android_client_info": {
+          "package_name": "com.lvlive.lvlivecheckout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyvabdMUP5s7d_9abOQnhwU7h2PtLdSOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
